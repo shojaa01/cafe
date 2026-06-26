@@ -61,3 +61,19 @@
   background-size: cover;
   max-width: 500px;
 }
+.lokation{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+}.lokation div{
+  width: 80%;
+  aspect-ratio: 20 / 8.29;
+  background-position: center;
+  background-size: cover;
+  max-width: 500px
+}
